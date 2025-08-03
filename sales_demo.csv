@@ -1,0 +1,10 @@
+Date,SalesTerritoryGroup,ProductCategory,SalesAmount
+2024-01-01,North America,Bikes,351212.75
+2024-01-01,North America,Accessories,163867.77
+2024-01-01,North America,Clothing,212626.27
+2024-01-01,Europe,Bikes,248690.6
+2024-01-01,Europe,Accessories,107599.5
+2024-01-01,Europe,Clothing,138855.77
+2024-01-01,Pacific,Bikes,208498.79
+2024-01-01,Pacific,Accessories,110156.6
+2024-01-01,Pacific,Clothing,129047.84
